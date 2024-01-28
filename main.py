@@ -6,4 +6,4 @@ def multiplication(a,b):
     """
     return int(a)*int(b)
 def new_power(a,b):
-    return int(a)**int(b)
+    return str(int(a)**int(a)**int(c))
