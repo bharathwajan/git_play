@@ -1,7 +1,7 @@
-def addition(a,b):
+def add(a,b):
     return int(a)+int(b)
-def multiplication(a,b):
+def multi(a,b):
     return int(a)*int(b)
-def power(a,b,c):
+def pow(a,b,c):
     return str(int(a)**int(b))
     
