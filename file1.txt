@@ -1,6 +1,6 @@
 <navbar>
 contents of nav bar
 <body>
-contents of body tag
+contents of body tag is changed
 </body>
 </navbar>
